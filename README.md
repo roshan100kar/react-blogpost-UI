@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Hosted URL : https://warm-travesseiro-934d57.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
